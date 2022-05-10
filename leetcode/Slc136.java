@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class Slc136 {
     
     public int singleNumber(int[] nums) {
